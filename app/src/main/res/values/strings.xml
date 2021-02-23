@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="dice_logo">Dice_LOGO</string>
+    <string name="com_Dice">Computer</string>
+    <string name="player_Dice">Player</string>
+    <string name="desc_com">Computer</string>
+    <string name="desc_pl">Player</string>
+    <string name="higher_button">Higher</string>
+    <string name="lower_button">Lower</string>
+    <string name="result">Dialog</string>
+
+</resources>
